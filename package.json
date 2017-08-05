@@ -1,0 +1,15 @@
+{
+  "name": "conditional_require",
+  "version": "0.5.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grmartin/conditional_require.git"
+  },
+  "author": "Glenn R. Martin",
+  "license": "BSD-2-Clause"
+}
